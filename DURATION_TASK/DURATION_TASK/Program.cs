@@ -18,6 +18,7 @@ namespace DURATION_TASK
             Console.WriteLine(D3.getString());
             Duration D4 = new Duration(666);
             Console.WriteLine(D4.getString());
+            Console.ReadKey();
         }
     }
 }
